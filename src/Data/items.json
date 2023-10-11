@@ -1,0 +1,32 @@
+ [
+  {
+    "id": 1,
+    "name": "Xps Laptops",
+    "price": 1299,
+    "image": "/imgs/presitionMobile.png"
+  },
+  {
+    "id": 2,
+    "name": "Latitude Laptops",
+    "price": 999,
+    "image": "/imgs/lattitude.avif"
+  },
+  {
+    "id": 3,
+    "name": "Inspiron Laptops",
+    "price": 799,
+    "image": "/imgs/gseriesgaminglaptop.avif"
+  },
+  {
+    "id": 4,
+    "name": "Alienware Laptops",
+    "price": 1999,
+    "image": "/imgs/alienwarelaptop.webp"
+  },
+  {
+    "id": 5,
+    "name": "Vostro Laptops",
+    "price": 599,
+    "image": "/imgs/vostroLaptop.avif"
+  }
+]
