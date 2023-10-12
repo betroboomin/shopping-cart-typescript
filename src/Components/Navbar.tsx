@@ -9,9 +9,7 @@ const Navbar = () => {
   }, [cartQuantity]);
 
 
-  const handleCartClick = () => {
-    console.log(cartQuantity);
-  };
+  
   
   return (
     <div className='boxShadow paddingtb sticky'>
